@@ -1,0 +1,5 @@
+{
+  "name": "Tạo đề môn Toán THPT - Nguyễn Thanh Dàn",
+  "description": "A web application for creating high school math tests by selecting topics from a curriculum structure. This tool allows users to browse grades, chapters, and specific lessons to build a custom test.",
+  "requestFramePermissions": []
+}
